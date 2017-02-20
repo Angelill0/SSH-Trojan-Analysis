@@ -1,6 +1,7 @@
-Anatomy of a Real Linux Intrusion Part II: OpenSSH trojanized toolkit
 
-Sources of information and detailed Analysis: 
+Here there are all the files used by the SSH rootkit analyzed in 
+"Anatomy of a Real Linux Intrusion Part II: OpenSSH trojanized toolkit" by Angel Alonso Parrizas
+
 http://blog.angelalonso.es/2016/09/anatomy-of-real-linux-intrusion-part-i.html
 http://blog.angelalonso.es/2016/09/anatomy-of-real-linux-intrusion-part-ii.html
 http://blog.angelalonso.es/2016/09/anatomy-of-real-linux-intrusion-part-ii_19.html
